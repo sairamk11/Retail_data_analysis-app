@@ -1,5 +1,0 @@
-streamlit
-pg8000
-pandas
-plotly
-os
